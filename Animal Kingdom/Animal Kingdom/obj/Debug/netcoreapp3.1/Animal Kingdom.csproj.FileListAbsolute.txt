@@ -1,0 +1,38 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.Views.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\bin\Debug\netcoreapp3.1\Animal Kingdom.Views.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.RazorAssemblyInfo.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.RazorAssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\staticwebassets\Animal Kingdom.StaticWebAssets.Manifest.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\staticwebassets\Animal Kingdom.StaticWebAssets.xml
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\scopedcss\bundle\Animal Kingdom.styles.css
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.TagHelpers.input.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.TagHelpers.output.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.RazorCoreGenerate.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.RazorTargetAssemblyInfo.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.RazorTargetAssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.Views.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.genruntimeconfig.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\Visual Studio\Animal Kingdom\Animal Kingdom\obj\Debug\netcoreapp3.1\Animal Kingdom.csproj.CopyComplete
