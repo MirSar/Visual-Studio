@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\Visual Studio\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
+      "projectUniqueName": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\Visual-Studio\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
       "projectName": "WebAppTutorial",
-      "projectPath": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\Visual Studio\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
+      "projectPath": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\Visual-Studio\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
       "packagesPath": "C:\\Users\\mirwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\Visual Studio\\WebAppTutorial\\WebAppTutorial\\obj\\",
+      "outputPath": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\Visual-Studio\\WebAppTutorial\\WebAppTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
